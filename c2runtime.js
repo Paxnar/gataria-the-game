@@ -21895,6 +21895,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Audio.prototype.cnds.PreloadsComplete,
 	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
+	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.plugins_.Sprite.prototype.acts.SetAngle,
 	cr.system_object.prototype.exps["int"],
