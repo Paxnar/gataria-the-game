@@ -21893,6 +21893,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Dictionary.prototype.acts.JSONLoad,
 	cr.plugins_.Audio.prototype.acts.StopAll,
 	cr.system_object.prototype.acts.GoToLayout,
+	cr.plugins_.Audio.prototype.cnds.PreloadsComplete,
 	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
 	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.plugins_.Sprite.prototype.acts.SetAngle,
